@@ -1,0 +1,46 @@
+h1{
+text-align: center;
+}
+
+
+li{
+font-size: 25px;
+}
+
+span{
+width: 150px;
+height: 30px;
+display: block;
+color: red;
+background: silver;
+}
+
+h2{
+    margin: 10px 0 0 50px;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 10px solid blue;
+}
+
+h3{
+/*height: 10px;*/
+
+width: 250px;
+margin: 10px 20px 30px 40px;
+}
+
+#target{
+background: red;
+color: yellow;
+}
+
+.xxx {
+color: black;
+background: yellow;
+}
+
+#target2{
+color: black;
+background: red;
+}
+
