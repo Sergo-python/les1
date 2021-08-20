@@ -1,0 +1,73 @@
+body{
+margin: 0;
+}
+.target1{
+width: 1005px;
+height: 600px;
+background: #000;
+position: absolute;
+z-index: 0;
+}
+.target2{
+width:995px;
+height: 100px;
+background: orange;
+position: absolute;
+display: inline-block;
+z-index: 1;
+margin-left: 5px;
+margin-top: 5px;
+}
+
+.target3{
+width:995px;
+height: 100px;
+background: orange;
+position: absolute;
+display: inline-block;
+z-index: 1;
+margin-left: 5px;
+margin-top: 495px;
+
+}
+.target4{
+width: 250px;
+height: 390px;
+background: red;
+position: absolute;
+display: inline-block;
+z-index: 1;
+margin-top: 105px;
+margin-left: 5px;
+
+}.target5{
+width: 250px;
+height: 390px;
+background: green;
+position: absolute;
+display: inline-block;
+z-index: 1;
+margin-top: 105px;
+margin-left: 255px;
+
+}.target6{
+width: 250px;
+height: 390px;
+background: blue;
+position: absolute;
+display: inline-block;
+z-index: 1;
+margin-top: 105px;
+margin-left: 505px;
+
+}.target7{
+width: 245px;
+height: 390px;
+background: black;
+position: absolute;
+display: inline-block;
+z-index: 1;
+margin-top: 105px;
+margin-left: 755px;
+
+}
