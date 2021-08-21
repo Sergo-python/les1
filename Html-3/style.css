@@ -1,0 +1,36 @@
+.wrap {
+height: 600px;
+width: 800px;
+border: 10px solid black;
+}
+
+.header, .footer{
+height: 100px;
+background: orange;
+clear: both;
+}
+
+.cancer1{
+height: 400px;
+width: 25%;
+background: red;
+float: left;
+}
+.cancer2{
+height: 400px;
+width: 25%;
+background: green;
+float: left;
+}
+.cancer3{
+height: 400px;
+width: 25%;
+background: blue;
+float: left;
+}
+.cancer4{
+height: 400px;
+width: 25%;
+background: black;
+float: left;
+}
