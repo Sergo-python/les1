@@ -19,15 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a0cb7c0-a59c-4c25-b05d-ad80b98d0d9c" name="Default Changelist" comment="les1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4a0cb7c0-a59c-4c25-b05d-ad80b98d0d9c" name="Default Changelist" comment="Blocks" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -74,21 +71,7 @@
       <option name="project" value="LOCAL" />
       <updated>1629544465652</updated>
     </task>
-    <task id="LOCAL-00003" summary="les1">
-      <created>1629544859995</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1629544859995</updated>
-    </task>
-    <task id="LOCAL-00004" summary="les1">
-      <created>1629545758493</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1629545758493</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,8 +88,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Blocks" />
-    <MESSAGE value="les1" />
-    <option name="LAST_COMMIT_MESSAGE" value="les1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Blocks" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="254" key="#Notifications" timestamp="1629285398038">
@@ -129,10 +111,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="570" y="135" key="Github.UntrackedFilesDialog/0.0.1600.860@0.0.1600.860" timestamp="1629370978067" />
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1629545771022">
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1629544480994">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1629545771022" />
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1629544480994" />
     <state x="456" y="195" key="run.anything.popup" timestamp="1629299440893">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
